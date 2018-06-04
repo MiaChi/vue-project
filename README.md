@@ -1,8 +1,16 @@
 # my-project
 
+There are 2 routes:
+Input data on first route:
+http://localhost:8081/#/common/route1
+
+Display input on second route:
+http://localhost:8081/#/common/route2
+
 > A Vue.js project
 
 ## Build Setup
+
 
 ``` bash
 # install dependencies
